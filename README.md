@@ -1,4 +1,5 @@
 # Marks Tool
-A Small command-line program that reads a list of marks and reports statistics about them.
+## Usage
 
-Laboratory project for Project Management (with Git), 1BCSL307A.
+    cp .env.example .env
+    python3 app.py
