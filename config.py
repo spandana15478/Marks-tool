@@ -11,4 +11,4 @@ def load_env(path=".env"):
                 continue
             key, _, value = line.partition("=")
             settings[key.strip()] = value.strip()
-     return settings
+    return settings

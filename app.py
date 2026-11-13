@@ -11,7 +11,7 @@ def main():
     print("Count  :", len (MARKS))
     print("Average:", average(MARKS))
     print("Highest:", highest(MARKS))
-    print("Lowest:", lowest(MARKS))
+    print("Lowest :", lowest(MARKS))
 
 if  __name__ == "__main__":
      main()
