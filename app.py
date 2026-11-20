@@ -15,7 +15,6 @@ def main():
     print("Average:", average(MARKS))
     print("Highest:", highest(MARKS))
     print("Lowest :", lowest(MARKS))
-<<<<<<< HEAD
 
     pass_mark = int(settings["PASS_MARK"])
     print("Passed :", pass_count(MARKS, pass_mark), "of", len(MARKS))
